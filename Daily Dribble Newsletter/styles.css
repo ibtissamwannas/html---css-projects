@@ -1,0 +1,42 @@
+body{
+    color: #121212;
+    text-align: center;
+}
+
+#main-img{
+    width: 380px;
+    border-radius: 3px;
+}
+
+.description-text{
+    width: 380px;
+    margin: 10px auto;
+    font-style: italic;
+    font-size: 15px;
+}
+
+button{
+    width: 250px;
+    margin-top: 10px;
+    color: white;
+    background: #121212;
+    border: 3px solid #121212;
+    padding: 8px 0px;
+}
+
+input{
+    margin-top: 20px;
+    width: 240px;
+    border: 3px solid #121212;
+    text-align: center;
+    padding: 8px 0px;
+}
+
+.terms{
+    font-style: italic;
+}
+
+a{
+    color: #121212;
+}
+
